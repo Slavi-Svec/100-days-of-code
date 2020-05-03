@@ -32,7 +32,7 @@ Basic JavaScript: Use Recursion to Create a Range of Numbers
 
 **Thoughts** 
 was proud of finishing this Kata, and also finally completing the whole section of basic Js in fcc
-i completed the last question today. im feeling great about startin the new week tomorrow and will be completing a few projects soon. 
+i completed the last question today. im feeling great about starting the new week tomorrow and will be completing a few projects soon. 
 
 **Link(s) to work**
 
