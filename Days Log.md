@@ -37,13 +37,6 @@ i completed the last question today. im feeling great about startin the new week
 **Link(s) to work**
 
 
-### Day 1: May __, 2020 ______ 
-
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
 
 
 
