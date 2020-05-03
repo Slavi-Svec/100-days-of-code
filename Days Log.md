@@ -17,9 +17,11 @@ Day 2: May 02, 2020 Saturday
 
 **Today's Progress**:
 I completed a 7kyu Kata in codewars "Debug Basic Calculator"
+and continued to work on my portfolio page in React.
 
 **Thoughts**: 
 its still taking me hours to complete a 7kyu Kata, im proud i completed it as when i started codewars even the most basic of questions seemed impossible for days for me to understand. 
+and i'm starting to get the hang of passing components and understanding react.
 
 **Link(s) to work**: 
 
