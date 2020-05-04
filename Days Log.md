@@ -42,13 +42,13 @@ i completed the last question today. im feeling great about starting the new wee
 Day 4: May 04, 2020 Monday 
 
 **Today's Progress**:
-Refactored my FCC tribute page tribute of david brent 
+Redid my FCC tribute page tribute of david brent 
 code wars 7KYU 'Debug the functions EASY'
 and I have started working on the FCC front end certificate questions 
 
 
 **Thoughts** 
-Today I refactored my FCC tribute page and have alost completed it. I now fully understand how to align items easy by using
+Today I changed my FCC tribute page and have alost completed it. I now fully understand how to align items easy by using
 1 - Display: flex;
 2 - flex-direction: column;
 3 - Justify-content: centre;
