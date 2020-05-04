@@ -39,6 +39,28 @@ i completed the last question today. im feeling great about starting the new wee
 **Link(s) to work**
 
 
+Day 4: May 04, 2020 Monday 
+
+**Today's Progress**:
+Refactored my FCC tribute page tribute of david brent 
+code wars 7KYU 'Debug the functions EASY'
+and I have started working on the FCC front end certificate questions 
+
+
+**Thoughts** 
+Today I refactored my FCC tribute page and have alost completed it. I now fully understand how to align items easy by using
+1 - Display: flex;
+2 - flex-direction: column;
+3 - Justify-content: centre;
+these 3 actions have made everything easy as flexbox does all the heavy lifitng in css. 
+i also am getting better at using for loops and higher order arrays, need more practice 
+
+**Link(s) to work**
+
+https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/Front%20End%20Libraries%20Certification/03%20-%20Sass/01%20-%20Store%20Data%20with%20Sass%20Variables
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Debug%20the%20functions%20EASY
+
+
 
 
 
