@@ -67,7 +67,7 @@ Completed FCC tribute page, code wars - 8 kyu Convert a Boolean to a String, 8 k
 and completed 4 questions from the ES6 section in FCC 
 
 **Thoughts** 
-Im beginning to understand functions a lot more and now  starting to think of a few options when i have to answering code wars algorithms, I realise that there is multiple ways to answer a queston. i have fisished my tribute page and looks good. 
+Im beginning to understand functions a lot more and now  starting to think of a few options when i have to answering code wars algorithms, I realise that there is multiple ways to answer a queston. WHen i first started code wars it would take me all day just to figure out what the questions was asking me to do, now i know the answer and just have to get the correct syntax. I have fisished my tribute page and looks good. 
 
 **Link(s) to work**
 https://codepen.io/slavi-svec/pen/Bayxvaa
