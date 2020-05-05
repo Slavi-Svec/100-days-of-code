@@ -61,6 +61,22 @@ https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/Front%20End%20Libraries%2
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Debug%20the%20functions%20EASY
 
 
+Day 5: May 05, 2020 Tuesday
+
+Today's Progress: 
+Completed FCC tribute page, code wars - 8 kyu Convert a Boolean to a String, 8 kyu Reversed Strings
+and completed 4 questions from the ES6 section in FCC 
+
+Thoughts Today
+im beginning to understand functions a lot more and now  starting to think of a few options when i have to answering code wars algorithms, I realise that there is multiple ways to answer a queston. i have fisished my tribute page and looks good. 
+
+Link(s) to work
+https://codepen.io/slavi-svec/pen/Bayxvaa
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/02-%20ES6
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20Boolean%20to%20a%20String
+https://github.com/Slavi-Svec/code-wars-kata/commit/a1a428bc9ed670f03815f9900e43b676af8d298d
+
+
 
 
 
