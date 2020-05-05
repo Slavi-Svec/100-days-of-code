@@ -56,21 +56,20 @@ these 3 actions have made everything easy as flexbox does all the heavy lifitng 
 i also am getting better at using for loops and higher order arrays, need more practice 
 
 **Link(s) to work**
-
 https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/Front%20End%20Libraries%20Certification/03%20-%20Sass/01%20-%20Store%20Data%20with%20Sass%20Variables
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Debug%20the%20functions%20EASY
 
 
 Day 5: May 05, 2020 Tuesday
 
-Today's Progress: 
+**Today's Progress**:
 Completed FCC tribute page, code wars - 8 kyu Convert a Boolean to a String, 8 kyu Reversed Strings
 and completed 4 questions from the ES6 section in FCC 
 
-Thoughts Today
-im beginning to understand functions a lot more and now  starting to think of a few options when i have to answering code wars algorithms, I realise that there is multiple ways to answer a queston. i have fisished my tribute page and looks good. 
+**Thoughts** 
+Im beginning to understand functions a lot more and now  starting to think of a few options when i have to answering code wars algorithms, I realise that there is multiple ways to answer a queston. i have fisished my tribute page and looks good. 
 
-Link(s) to work
+**Link(s) to work**
 https://codepen.io/slavi-svec/pen/Bayxvaa
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/02-%20ES6
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20Boolean%20to%20a%20String
