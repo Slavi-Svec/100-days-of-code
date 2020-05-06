@@ -76,6 +76,16 @@ https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%
 https://github.com/Slavi-Svec/code-wars-kata/commit/a1a428bc9ed670f03815f9900e43b676af8d298d
 
 
+Day 6: May 06, 2020 Wednesday
+
+Today's Progress: Completed 9 questions from FCC ES6, continued to work on my FCC survey page, completed Codewars 8 kyu A Needle in the Haystack
+
+Thoughts: Im starting to get some good progress in the Javascript ES6 algorithms and understanding the concepts. Im nearly completed the Survery form and i spend hours trying tio complete some array challenges on code wars. tomorrow i will continue practicing Arrays and how to apply for loops and map, filter ect to them. i want to solidify my understndig of these. I had a long day trying these array methods.
+
+Link(s) to work:
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20A%20Needle%20in%20the%20Haystack
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/02-%20ES6
+
 
 
 
