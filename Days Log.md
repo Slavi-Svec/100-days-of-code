@@ -88,4 +88,16 @@ https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%2
 https://github.com/Slavi-Svec/survey-form
 
 
+Day 7: May 07, 2020 Thursday 
+
+Today's Progress: completed the last question of the Javascript ES6 algorithms, 6 questions form the Regular Expressions, worked on my survey page and completed Codewars 8 kyu Array plus array and 8 kyu Abbreviate a Two Word Name
+
+Thoughts: I had a good day learning more about higher order array methods, I used a reduce method and learned how to merge 2 arrays by using this (arr1.concat(arr2)) also how to split arrays using .split() and join arrays using .join(). I was a litle bit tired this afternoon but i got thru it all. i also spent some time fixing up my FCC survey page as well. 
+
+Link(s) to work:
+
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Array%20plus%20array
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Abbreviate%20a%20Two%20Word%20Name
+
 
