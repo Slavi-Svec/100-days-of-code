@@ -78,7 +78,7 @@ https://github.com/Slavi-Svec/code-wars-kata/commit/a1a428bc9ed670f03815f9900e43
 
 Day 6: May 06, 2020 Wednesday
 
-Today's Progress: Completed 9 questions from FCC ES6, continued to work on my FCC survey page, completed Codewars 8 kyu A Needle in the Haystack
+**Today's Progress**: Completed 9 questions from FCC ES6, continued to work on my FCC survey page, completed Codewars 8 kyu A Needle in the Haystack
 
 Thoughts: Im starting to get some good progress in the Javascript ES6 algorithms and understanding the concepts. Im nearly completed the Survery form and i spend hours trying to complete some array challenges on code wars. tomorrow i will continue practicing Arrays and how to apply for loops and map, filter ect to them. i want to solidify my understndig of these. I had a long day trying these array methods.
 
@@ -90,9 +90,9 @@ https://github.com/Slavi-Svec/survey-form
 
 Day 7: May 07, 2020 Thursday 
 
-Today's Progress: completed the last question of the Javascript ES6 algorithms, 6 questions form the Regular Expressions, worked on my survey page and completed Codewars 8 kyu Array plus array and 8 kyu Abbreviate a Two Word Name
+**Today's Progress**: completed the last question of the Javascript ES6 algorithms, 6 questions form the Regular Expressions, worked on my survey page and completed Codewars 8 kyu Array plus array and 8 kyu Abbreviate a Two Word Name
 
-Thoughts: I had a good day learning more about higher order array methods, I used a reduce method and learned how to merge 2 arrays by using this (arr1.concat(arr2)) also how to split arrays using .split() and join arrays using .join(). I was a litle bit tired this afternoon but i got thru it all. i also spent some time fixing up my FCC survey page as well. 
+**Thoughts**:  I had a good day learning more about higher order array methods, I used a reduce method and learned how to merge 2 arrays by using this (arr1.concat(arr2)) also how to split arrays using .split() and join arrays using .join(). I was a litle bit tired this afternoon but i got thru it all. i also spent some time fixing up my FCC survey page as well. 
 
 Link(s) to work:
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
@@ -102,10 +102,10 @@ https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Abbrevia
 
 Day 8: May 08, 2020 Friday
 
-Today's Progress:
+**Today's Progress**:
 Completed my FCC survey page and 2 questions from the regex questions 
 
-Thoughts:
+**Thoughts**: 
 feel good about completing the second project from the responsive web design projects,
 
 Link(s) to work: 
