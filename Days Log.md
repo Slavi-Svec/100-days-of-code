@@ -100,3 +100,13 @@ https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Array%20
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Abbreviate%20a%20Two%20Word%20Name
 
 
+Day 8: May 08, 2020 Friday
+
+Today's Progress: Completed my FCC survey page and 2 questions from the regex questions 
+
+Thoughts: feel good about completing the second project from the responsive web design projects,
+
+Link(s) to work: 
+https://codepen.io/slavi-svec/pen/QWwJoXm
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+
