@@ -102,9 +102,11 @@ https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Abbrevia
 
 Day 8: May 08, 2020 Friday
 
-Today's Progress: Completed my FCC survey page and 2 questions from the regex questions 
+Today's Progress:
+Completed my FCC survey page and 2 questions from the regex questions 
 
-Thoughts: feel good about completing the second project from the responsive web design projects,
+Thoughts:
+feel good about completing the second project from the responsive web design projects,
 
 Link(s) to work: 
 https://codepen.io/slavi-svec/pen/QWwJoXm
