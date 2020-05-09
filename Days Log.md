@@ -112,3 +112,14 @@ feel good about completing the second project from the responsive web design pro
 https://codepen.io/slavi-svec/pen/QWwJoXm
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
 
+
+Day 9: May 09, 2020 Saturday
+
+**Today's Progress**:
+Completed 15 questions from FCC Regular Expressions.
+
+**Thoughts**: 
+I am better understanding how to match strings in regex
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
