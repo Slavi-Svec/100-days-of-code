@@ -123,3 +123,17 @@ I am better understanding how to match strings in regex
 
 **Link(s) to work**
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+
+
+Day 10: May 10, 2020 Sunday
+
+**Today's Progress**:
+Completed 7 questions from FCC Regular Expressions.
+Codewars 8 kyu Find the smallest integer in the array
+
+**Thoughts**: 
+after getting thru most of the challenges in the FCC im learning how to use the regex to match passwords in strings and other characters. Also i used the destructuring assignment and Math.min to find the smallest integer in an array.  
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Find%20the%20smallest%20integer%20in%20the%20array
