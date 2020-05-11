@@ -143,7 +143,7 @@ Day 11: May 11, 2020 Monday
 
 Today's Progress: Completed the last 5 questions from FCC Regular Expressions. Completed all 12 questions from FCC Debugging and Codewars 8 kyu string repeat.
 
-Thoughts: I used text align center to correct some code and now when the page is responsive the text stays in the middle, i also got thru the whole section of FCC debugging quite easy as a lot of the errors i have already had to correct in my code in the past, i was a little distracted today but managed to put in a good day of coding, i think im starting to undertand the arrays and for loops a lot more because of the practice im putting in.
+Thoughts: I used text align centre to correct some code and now when the page is responsive the text stays in the middle, i also got thru the whole section of FCC debugging quite easy as a lot of the errors i have already had to correct in my code in the past, i was a little distracted today but managed to put in a good day of coding, i think im starting to undertand the arrays and for loops a lot more because of the practice im putting in.
 
 Link(s) to work
 
