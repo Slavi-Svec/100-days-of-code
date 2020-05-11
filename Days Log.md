@@ -137,3 +137,16 @@ after getting thru most of the challenges in the FCC im learning how to use the 
 **Link(s) to work**
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Find%20the%20smallest%20integer%20in%20the%20array
+
+
+Day 11: May 11, 2020 Monday 
+
+Today's Progress: Completed the last 5 questions from FCC Regular Expressions. Completed all 12 questions from FCC Debugging and Codewars 8 kyu string repeat.
+
+Thoughts: I used text align center to correct some code and now when the page is responsive the text stays in the middle, i also got thru the whole section of FCC debugging quite easy as a lot of the errors i have already had to correct in my code in the past, i was a little distracted today but managed to put in a good day of coding, i think im starting to undertand the arrays and for loops a lot more because of the practice im putting in.
+
+Link(s) to work
+
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/04%20-%20Debugging
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Reversed%20Strings
