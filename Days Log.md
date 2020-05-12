@@ -141,9 +141,11 @@ https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Find%20t
 
 Day 11: May 11, 2020 Monday 
 
-Today's Progress: Completed the last 5 questions from FCC Regular Expressions. Completed all 12 questions from FCC Debugging and Codewars 8 kyu string repeat.
+Today's Progress: 
+Completed the last 5 questions from FCC Regular Expressions. Completed all 12 questions from FCC Debugging and Codewars 8 kyu string repeat.
 
-Thoughts: I used text align centre to correct some code and now when the page is responsive the text stays in the middle, i also got thru the whole section of FCC debugging quite easy as a lot of the errors i have already had to correct in my code in the past, i was a little distracted today but managed to put in a good day of coding, i think im starting to undertand the arrays and for loops a lot more because of the practice im putting in.
+Thoughts:
+I used text align centre to correct some code and now when the page is responsive the text stays in the middle, i also got thru the whole section of FCC debugging quite easy as a lot of the errors i have already had to correct in my code in the past, i was a little distracted today but managed to put in a good day of coding, i think im starting to undertand the arrays and for loops a lot more because of the practice im putting in.
 
 Link(s) to work
 
@@ -154,7 +156,8 @@ https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Reversed
 
 Day 12: May 12, 2020 Tuesday
 
-**Today's Progress**: Completed 9 questions from FCC Basic Data Structures, continued to work on my product landing page and completed Codewars 7 kyu You're a square! and 8 kyu Convert a String to a Number!
+**Today's Progress**: 
+Completed 9 questions from FCC Basic Data Structures, continued to work on my product landing page and completed Codewars 7 kyu You're a square! and 8 kyu Convert a String to a Number!
 
 **Thoughts**:  
 I uesd the Math.sqrt to find the square root of a number and using a for loop to find the answer on codeWars you're a square i then refactored it into one line. i had a productive day coding. I also am getting good practice using pop() and push() and Shift() and unshift(), an using the spread operator in Arrays.
