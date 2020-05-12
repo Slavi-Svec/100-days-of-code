@@ -150,3 +150,16 @@ Link(s) to work
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/04%20-%20Debugging
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Reversed%20Strings
+
+
+Day 12: May 12, 2020 Tuesday
+
+**Today's Progress**: Completed 9 questions from FCC Basic Data Structures, continued to work on my product landing page and completed Codewars 7 kyu You're a square! and 8 kyu Convert a String to a Number!
+
+**Thoughts**:  
+I uesd the Math.sqrt to find the square root of a number and using a for loop to find the answer on codeWars you're a square i then refactored it into one line. i had a productive day coding. I also am getting good practice using pop() and push() and Shift() and unshift(), an using the spread operator in Arrays.
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20You're%20a%20square!
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20String%20to%20a%20Number!
