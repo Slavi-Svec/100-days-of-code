@@ -141,13 +141,13 @@ https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Find%20t
 
 Day 11: May 11, 2020 Monday 
 
-Today's Progress: 
+**Today's Progress**: 
 Completed the last 5 questions from FCC Regular Expressions. Completed all 12 questions from FCC Debugging and Codewars 8 kyu string repeat.
 
-Thoughts:
+**Thoughts**:
 I used text align centre to correct some code and now when the page is responsive the text stays in the middle, i also got thru the whole section of FCC debugging quite easy as a lot of the errors i have already had to correct in my code in the past, i was a little distracted today but managed to put in a good day of coding, i think im starting to undertand the arrays and for loops a lot more because of the practice im putting in.
 
-Link(s) to work
+**Link(s) to work**
 
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/04%20-%20Debugging
@@ -166,3 +166,19 @@ I uesd the Math.sqrt to find the square root of a number and using a for loop to
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20You're%20a%20square!
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20String%20to%20a%20Number!
+
+
+Day 13: May 13, 2020 Wdnesday 
+
+**Today's Progress**: 
+Completed 4 questions from FCC Basic Data Structures, continued to work on my product landing page and completed Codewars 7 kyu Square Every Digit and kyu Simple multiplication
+
+**Thoughts**:  
+I spen hours trying to center text over an imge on my product landing page and learned to use transform: translate(-50%, -50%); it make the job a lot easyer. I continued to learn about array methods from FCC and i figured out the Array.from method and a differend way to split strings in js on code wars. I put in another good day of coding, tomorrow im going to correct a lot of the layout of my product landing page.
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/product-landing-page
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Square%20Every%20Digit
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Simple%20multiplication
+
