@@ -174,7 +174,7 @@ Day 13: May 13, 2020 Wdnesday
 Completed 4 questions from FCC Basic Data Structures, continued to work on my product landing page and completed Codewars 7 kyu Square Every Digit and 8 kyu Simple multiplication
 
 **Thoughts**:  
-I spent hours trying to center text over an imge on my product landing page and learned to use transform: translate(-50%, -50%); it make the job a lot easyer. I continued to learn about array methods from FCC and i figured out the Array.from method and a differend way to split strings in js on code wars. I put in another good day of coding, tomorrow im going to correct a lot of the layout of my product landing page.
+I spent hours trying to center text over an imge on my product landing page and learned to use transform: translate(-50%, -50%); it make the job a lot easier. I continued to learn about array methods from FCC and i figured out the Array.from method and a differend way to split strings in js on code wars. I put in another good day of coding, tomorrow im going to correct a lot of the layout of my product landing page.
 
 **Link(s) to work**
 https://github.com/Slavi-Svec/product-landing-page
