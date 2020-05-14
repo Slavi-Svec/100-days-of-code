@@ -182,3 +182,14 @@ https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%2
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Square%20Every%20Digit
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Simple%20multiplication
 
+
+Day 14: May 14, 2020 Thursday
+
+**Today's Progress**: 
+Today i spent all day working on my portfolio, im going to leave out the projects and thoughts section and just finish it off as so i can make it live. i spend a lot of time today on design and arranging images 
+
+**Thoughts**:  
+I normally spend some time every day on code wars and also FCC questions but i made an effor to get this portfolio page completed as soon as i can. i was a little bit tired this morning but i got through it all, but i still need to fix a few thing on it. 
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/portfolio-website
