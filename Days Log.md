@@ -193,3 +193,16 @@ I normally spend some time every day on code wars and also FCC questions but i m
 
 **Link(s) to work**
 https://github.com/Slavi-Svec/portfolio-website
+
+
+Day 15: May 15, 2020 Friday
+
+**Today's Progress**: 
+Today i completed 6 questions form the FCC Basic Data Structures and completed it, also 2 questions from basic algorithm scripting. and also researched more info for my portfolio 
+
+**Thoughts**:  
+Im going to try and double up on the time i spend on FCC to get the algorithm challenges complete then i can go back to code wars. it friday and shops are allowing 10 people in them in Sydney so it looks like a bit of normality outside during this corona virus pandemeic. i learned today that i can add UI to some of my coding challenges, to make them even more interesting. 
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
+https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting
