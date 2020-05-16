@@ -206,3 +206,20 @@ Im going to try and double up on the time i spend on FCC to get the algorithm ch
 **Link(s) to work**
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
 https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting
+
+
+Day 16: May 16, 2020 Saturday
+
+**Today's Progress**: 
+Completed Codewars
+7 kyu Sum of two lowest positive integers
+8 kyu Remove exclamation marks
+8 kyu Calculate average
+
+ 
+**Thoughts**:  
+Just spent the saturday afternoon doing som code wars. will make more progress tomorrow on my projects. 
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Sum%20of%20two%20lowest%20positive%20integers
+https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Remove%20exclamation%20marks
