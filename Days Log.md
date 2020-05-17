@@ -223,3 +223,21 @@ Just spent the saturday afternoon doing som code wars. will make more progress t
 **Link(s) to work**
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Sum%20of%20two%20lowest%20positive%20integers
 https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Remove%20exclamation%20marks
+
+
+Day 17: May 17, 2020 Sunday
+
+**Today's Progress**: 
+completed FCC Basic Algorithm Scripting
+03 - Factorialize a Number	
+04 - Find the Longest Word in a String	
+05 - Return Largest Numbers in Arrays
+
+ 
+**Thoughts**:  
+Some of these challenges are starting to get a little difficult to complete. I had a good day today and am ready to start the new week tomorrow again. im able to complete these problems but am forgetting some syntax. the practice and repetition every day is good. 
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/03%20-%20%20Factorialize%20a%20Number
+https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/04%20-%20Find%20the%20Longest%20Word%20in%20a%20String
+https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/05%20-%20Return%20Largest%20Numbers%20in%20Arrays
