@@ -249,7 +249,7 @@ completed FCC Basic Algorithm Scripting
 worked on my portfolio and i cleared my product landing theme to start again with an new theme 
 
  **Thoughts**:  
- The product landing page that i was working on was noo good and looked shit so i started again with a new theme. i spent hours trying to comolete confirm the endind using the substr() method, it was trick to understand.
+ The product landing page that i was working on was noo good and looked shit so i started again with a new theme. i spent hours trying to comolete confirm the endind using the substr() method, it was tricky to understand.
 
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/06%20-%20Confirm%20the%20Ending
