@@ -242,6 +242,7 @@ https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%2
 https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/04%20-%20Find%20the%20Longest%20Word%20in%20a%20String
 https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/05%20-%20Return%20Largest%20Numbers%20in%20Arrays
 
+Day 18: May 18, 2020 Monday
 
 **Today's Progress**: 
 completed FCC Basic Algorithm Scripting
@@ -254,3 +255,20 @@ worked on my portfolio and i cleared my product landing theme to start again wit
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/06%20-%20Confirm%20the%20Ending
 * https://github.com/Slavi-Svec/portfolio-website
+
+
+Day 19: May 19, 2020 Tuesday 
+
+**Today's Progress**: 
+Completed Basic Algorithm Scripting:
+Repeat a String Repeat a String
+Truncate a String
+Finders Keepers
+
+ **Thoughts**:  
+ I was exausted today and had to take the afternoon of to sleep, i got thru the FCC algorithms.
+
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/07%20-%20Repeat%20a%20String%20Repeat%20a%20String
+* https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/07%20-%20Repeat%20a%20String%20Repeat%20a%20String
+* https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/09%20-%20Finders%20Keepers
