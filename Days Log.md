@@ -272,3 +272,18 @@ Finders Keepers
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/07%20-%20Repeat%20a%20String%20Repeat%20a%20String
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/07%20-%20Repeat%20a%20String%20Repeat%20a%20String
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/09%20-%20Finders%20Keepers
+
+
+Day 20: May 20, 2020 Wednesday
+
+**Today's Progress**: 
+Completed Basic Algorithm Scripting:
+10 - Boo who	
+11 - Title Case a Sentence
+
+ **Thoughts**:  
+practiced using the toLowerCase() and Split() methods, and a few other to return capital letters in every word.
+
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/11%20-%20Title%20Case%20a%20Sentence
+* https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/10%20-%20%20Boo%20who
