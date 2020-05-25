@@ -287,3 +287,15 @@ practiced using the toLowerCase() and Split() methods, and a few other to return
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/11%20-%20Title%20Case%20a%20Sentence
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/10%20-%20%20Boo%20who
+
+
+Day 25: May 25, 2020 Monday
+
+**Today's Progress**: 
+Completed Basic Algorithm Scripting:
+16 - Chunky Monkey
+
+ **Thoughts**:  
+the past set of basic algorithms were kind of difficult, the one i completed today took a bit of thinking to find the best solution but i worled out how to use a while loop and the splice method rather than the slice method. feeling good about completing them 
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/16%20-%20Chunky%20Monkey
