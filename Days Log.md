@@ -299,3 +299,26 @@ Completed Basic Algorithm Scripting:
 the past set of basic algorithms were kind of difficult, the one i completed today took a bit of thinking to find the best solution but i worled out how to use a while loop and the splice method rather than the slice method. feeling good about completing them 
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/16%20-%20Chunky%20Monkey
+
+
+Day 26: May 26, 2020 Tuesday 
+
+**Today's Progress**: 
+Completed 6 Questions from FCC Object Oriented Programming
+
+ **Thoughts**:  
+ive started on the Object Oriented Programming section of FCC, and i continued on my portfolio. ive been getting tired lately so i will cut back my study hours. 
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
+
+
+Day 27: May 27, 2020 Wednesday
+
+**Today's Progress**: 
+Completed 2 Questions from FCC Object Oriented Programming and worked on my product landing page 
+
+ **Thoughts**:  
+today is studied from 9-5pm, and im not as tired today. I continued working on my FCC producy landing page after i decided to start again the product is AirPods, its starting to look a lot better. 
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
+* https://github.com/Slavi-Svec/product-landing-page
