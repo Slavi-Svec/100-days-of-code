@@ -322,3 +322,14 @@ today is studied from 9-5pm, and im not as tired today. I continued working on m
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
 * https://github.com/Slavi-Svec/product-landing-page
+
+
+Day 28: May 28, 2020 Thursday
+
+**Today's Progress**: 
+Completed 9 Questions from FCC Object Oriented Programming and worked on my product landing page 
+
+ **Thoughts**:  
+had a really good day today and i think the product landing page will be ready soon, feeling alot better after coding for the 7 hours today.
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
