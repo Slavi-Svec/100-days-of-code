@@ -333,3 +333,12 @@ Completed 9 Questions from FCC Object Oriented Programming and worked on my prod
 had a really good day today and i think the product landing page will be ready soon, feeling alot better after coding for the 7 hours today.
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
+
+Day 32: June 01, 2020 Monday
+
+**Today's Progress**: 
+Nearly completed FCC product landing page, it looks a lot better 
+ **Thoughts**:
+ I have had a good weekend and now nearly finished my product landing page, just need to make it responsive with media queries. and a few other things. 
+**Link(s) to work**
+* https://github.com/Slavi-Svec/product-landing-page/blob/master/index.html
