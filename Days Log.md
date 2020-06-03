@@ -342,3 +342,23 @@ Nearly completed FCC product landing page, it looks a lot better
  I have had a good weekend and now nearly finished my product landing page, just need to make it responsive with media queries. and a few other things. 
 **Link(s) to work**
 * https://github.com/Slavi-Svec/product-landing-page/blob/master/index.html
+
+
+Day 33: June 01, 2020 Tuesday
+
+**Today's Progress**: 
+completed FCC product landing page, 
+ **Thoughts**:
+finally its completed and i can move on to completing the technical documentation page. 
+**Link(s) to work**
+* https://github.com/Slavi-Svec/product-landing-page/blob/master/index.html
+
+
+Day 34: June 01, 2020 Wednesday 
+
+**Today's Progress**: 
+Continued to work on my Technical documentation page and a few questions from FCC functional programming. 
+ **Thoughts**:
+ im still getting used to some of the concepts for functional programming. Difficult.
+**Link(s) to work**
+https://github.com/Slavi-Svec/technical-documentation-page
