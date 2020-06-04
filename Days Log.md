@@ -56,8 +56,8 @@ these 3 actions have made everything easy as flexbox does all the heavy lifitng 
 i also am getting better at using for loops and higher order arrays, need more practice 
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/Front%20End%20Libraries%20Certification/03%20-%20Sass/01%20-%20Store%20Data%20with%20Sass%20Variables
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Debug%20the%20functions%20EASY
+*https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/Front%20End%20Libraries%20Certification/03%20-%20Sass/01%20-%20Store%20Data%20with%20Sass%20Variables
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Debug%20the%20functions%20EASY
 
 
 Day 5: May 05, 2020 Tuesday
@@ -70,10 +70,10 @@ and completed 4 questions from the ES6 section in FCC
 Im beginning to understand functions a lot more and now  starting to think of a few options when i have to answering code wars algorithms, I realise that there is multiple ways to answer a queston. WHen i first started code wars it would take me all day just to figure out what the questions was asking me to do, now i know the answer and just have to get the correct syntax. I have fisished my tribute page and looks good. 
 
 **Link(s) to work**
-https://codepen.io/slavi-svec/pen/Bayxvaa
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/02-%20ES6
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20Boolean%20to%20a%20String
-https://github.com/Slavi-Svec/code-wars-kata/commit/a1a428bc9ed670f03815f9900e43b676af8d298d
+*https://codepen.io/slavi-svec/pen/Bayxvaa
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/02-%20ES6
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20Boolean%20to%20a%20String
+*https://github.com/Slavi-Svec/code-wars-kata/commit/a1a428bc9ed670f03815f9900e43b676af8d298d
 
 
 Day 6: May 06, 2020 Wednesday
@@ -83,9 +83,9 @@ Day 6: May 06, 2020 Wednesday
 **Thoughts**:  Im starting to get some good progress in the Javascript ES6 algorithms and understanding the concepts. Im nearly completed the Survery form and i spend hours trying to complete some array challenges on code wars. tomorrow i will continue practicing Arrays and how to apply for loops and map, filter ect to them. i want to solidify my understndig of these. I had a long day trying these array methods.
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20A%20Needle%20in%20the%20Haystack
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/02-%20ES6
-https://github.com/Slavi-Svec/survey-form
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20A%20Needle%20in%20the%20Haystack
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/02-%20ES6
+*https://github.com/Slavi-Svec/survey-form
 
 
 Day 7: May 07, 2020 Thursday 
@@ -95,9 +95,9 @@ Day 7: May 07, 2020 Thursday
 **Thoughts**:  I had a good day learning more about higher order array methods, I used a reduce method and learned how to merge 2 arrays by using this (arr1.concat(arr2)) also how to split arrays using .split() and join arrays using .join(). I was a litle bit tired this afternoon but i got thru it all. i also spent some time fixing up my FCC survey page as well. 
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Array%20plus%20array
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Abbreviate%20a%20Two%20Word%20Name
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Array%20plus%20array
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Abbreviate%20a%20Two%20Word%20Name
 
 
 Day 8: May 08, 2020 Friday
@@ -109,8 +109,8 @@ Completed my FCC survey page and 2 questions from the regex questions
 feel good about completing the second project from the responsive web design projects,
 
 **Link(s) to work**
-https://codepen.io/slavi-svec/pen/QWwJoXm
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+*https://codepen.io/slavi-svec/pen/QWwJoXm
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
 
 
 Day 9: May 09, 2020 Saturday
@@ -122,7 +122,7 @@ Completed 15 questions from FCC Regular Expressions.
 I am better understanding how to match strings in regex
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
 
 
 Day 10: May 10, 2020 Sunday
@@ -135,8 +135,8 @@ Codewars 8 kyu Find the smallest integer in the array
 after getting thru most of the challenges in the FCC im learning how to use the regex to match passwords in strings and other characters. Also i used the destructuring assignment and Math.min to find the smallest integer in an array.  
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Find%20the%20smallest%20integer%20in%20the%20array
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Find%20the%20smallest%20integer%20in%20the%20array
 
 
 Day 11: May 11, 2020 Monday 
@@ -149,9 +149,9 @@ I used text align centre to correct some code and now when the page is responsiv
 
 **Link(s) to work**
 
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/04%20-%20Debugging
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Reversed%20Strings
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/03%20-%20Regular%20Expressions
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/04%20-%20Debugging
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Reversed%20Strings
 
 
 Day 12: May 12, 2020 Tuesday
@@ -163,9 +163,9 @@ Completed 9 questions from FCC Basic Data Structures, continued to work on my pr
 I uesd the Math.sqrt to find the square root of a number and using a for loop to find the answer on codeWars you're a square i then refactored it into one line. i had a productive day coding. I also am getting good practice using pop() and push() and Shift() and unshift(), an using the spread operator in Arrays.
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20You're%20a%20square!
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20String%20to%20a%20Number!
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20You're%20a%20square!
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Convert%20a%20String%20to%20a%20Number!
 
 
 Day 13: May 13, 2020 Wdnesday 
@@ -177,10 +177,10 @@ Completed 4 questions from FCC Basic Data Structures, continued to work on my pr
 I spent hours trying to center text over an imge on my product landing page and learned to use transform: translate(-50%, -50%); it make the job a lot easier. I continued to learn about array methods from FCC and i figured out the Array.from method and a differend way to split strings in js on code wars. I put in another good day of coding, tomorrow im going to correct a lot of the layout of my product landing page.
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/product-landing-page
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Square%20Every%20Digit
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Simple%20multiplication
+*https://github.com/Slavi-Svec/product-landing-page
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Square%20Every%20Digit
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Simple%20multiplication
 
 
 Day 14: May 14, 2020 Thursday
@@ -192,7 +192,7 @@ Today i spent all day working on my portfolio, im going to leave out the project
 I normally spend some time every day on code wars and also FCC questions but i made an effor to get this portfolio page completed as soon as i can. i was a little bit tired this morning but i got through it all, but i still need to fix a few thing on it. 
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/portfolio-website
+*https://github.com/Slavi-Svec/portfolio-website
 
 
 Day 15: May 15, 2020 Friday
@@ -204,8 +204,8 @@ Today i completed 6 questions form the FCC Basic Data Structures and completed i
 Im going to try and double up on the time i spend on FCC to get the algorithm challenges complete then i can go back to code wars. it friday and shops are allowing 10 people in them in Sydney so it looks like a bit of normality outside during this corona virus pandemic. i learned today that i can add UI to some of my coding challenges, to make them even more interesting. 
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
-https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/05%20-%20Basic%20Data%20Structures
+*https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting
 
 
 Day 16: May 16, 2020 Saturday
@@ -221,8 +221,8 @@ Completed Codewars
 Just spent the saturday afternoon doing som code wars. will make more progress tomorrow on my projects. 
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Sum%20of%20two%20lowest%20positive%20integers
-https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Remove%20exclamation%20marks
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Sum%20of%20two%20lowest%20positive%20integers
+*https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Remove%20exclamation%20marks
 
 
 Day 17: May 17, 2020 Sunday
@@ -238,9 +238,9 @@ completed FCC Basic Algorithm Scripting
 Some of these challenges are starting to get a little difficult to complete. I had a good day today and am ready to start the new week tomorrow again. im able to complete these problems but am forgetting some syntax. the practice and repetition every day is good. 
 
 **Link(s) to work**
-https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/03%20-%20%20Factorialize%20a%20Number
-https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/04%20-%20Find%20the%20Longest%20Word%20in%20a%20String
-https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/05%20-%20Return%20Largest%20Numbers%20in%20Arrays
+*https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/03%20-%20%20Factorialize%20a%20Number
+*https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/04%20-%20Find%20the%20Longest%20Word%20in%20a%20String
+*https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/05%20-%20Return%20Largest%20Numbers%20in%20Arrays
 
 Day 18: May 18, 2020 Monday
 
