@@ -354,11 +354,21 @@ finally its completed and i can move on to completing the technical documentatio
 * https://github.com/Slavi-Svec/product-landing-page/blob/master/index.html
 
 
-Day 34: June 01, 2020 Wednesday 
+Day 34: June 03, 2020 Wednesday 
 
 **Today's Progress**: 
 Continued to work on my Technical documentation page and a few questions from FCC functional programming. 
  **Thoughts**:
  im still getting used to some of the concepts for functional programming. Difficult.
+**Link(s) to work**
+https://github.com/Slavi-Svec/technical-documentation-page
+
+
+Day 34: June 04, 2020 Thursday
+
+**Today's Progress**: 
+Continued to work on my Technical documentation page
+ **Thoughts**:
+ was a good day again, im going to make the page responsive to mobile tomorrow. 
 **Link(s) to work**
 https://github.com/Slavi-Svec/technical-documentation-page
