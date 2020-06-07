@@ -372,3 +372,12 @@ Continued to work on my Technical documentation page
  was a good day again, im going to make the page responsive to mobile tomorrow. 
 **Link(s) to work**
 https://github.com/Slavi-Svec/technical-documentation-page
+
+Day 38: June 07, 2020 Sunday
+
+**Today's Progress**: 
+Continued to work FCC portfolio page 
+ **Thoughts**:
+completed all the tests and started the nav bar and the footer, i had a good weekend. 
+**Link(s) to work**
+* https://github.com/Slavi-Svec/personal-portfolio-webpage
