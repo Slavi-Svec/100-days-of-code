@@ -289,6 +289,57 @@ practiced using the toLowerCase() and Split() methods, and a few other to return
 * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/10%20-%20%20Boo%20who
 
 
+Day 21: May 21, 2020 Thursday
+
+**Today's Progress**: 
+Completed Codewars 6 kyu
+Split and then add both sides of an array together.
+
+ **Thoughts**:
+ this took me 2 days to figure out 
+ 
+ **Link(s) to work**
+* https://github.com/Slavi-Svec/code-wars-kata/tree/master/6kyu
+
+
+Day 22: May 22, 2020 Friday
+**Today's Progress**: 
+Completed Codewars 7 kyu Highest and Lowest
+
+ **Thoughts**:
+i had to use the sort function to comoplete this, these katas are still difficult 
+ 
+ **Link(s) to work**
+* https://github.com/Slavi-Svec/code-wars-kata/blob/master/7kyu/7%20kyu%20Highest%20and%20Lowest
+
+
+Day 23: May 23, 2020 Saturday
+**Today's Progress**: 
+FCC Basic Algorithm Scripting:
+Slice and Splice
+Falsy Bouncerowest
+
+ **Thoughts**:
+ the basic algorithm scripting questions are taking longer than i expected to comoplete, but im still learning a lot and how to use things i have already learned.
+ 
+ **Link(s) to work**
+ * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/12%20-%20Slice%20and%20Splice
+ * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/13%20-%20Falsy%20Bouncer
+ 
+ 
+ Day 24: May 24, 2020 Sunday
+**Today's Progress**: 
+Completed FCC Basic Algorithm Scripting:
+Where do I Belong
+Mutations
+
+ **Thoughts**:
+
+ 
+ **Link(s) to work**
+ * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/14%20-%20%20Where%20do%20I%20Belong
+ * https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/06%20-%20Basic%20Algorithm%20Scripting/15%20-%20Mutations
+
 Day 25: May 25, 2020 Monday
 
 **Today's Progress**: 
@@ -364,7 +415,7 @@ Continued to work on my Technical documentation page and a few questions from FC
 https://github.com/Slavi-Svec/technical-documentation-page
 
 
-Day 34: June 04, 2020 Thursday
+Day 35: June 04, 2020 Thursday
 
 **Today's Progress**: 
 Continued to work on my Technical documentation page
