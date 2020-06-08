@@ -382,8 +382,48 @@ Completed 9 Questions from FCC Object Oriented Programming and worked on my prod
 
  **Thoughts**:  
 had a really good day today and i think the product landing page will be ready soon, feeling alot better after coding for the 7 hours today.
+
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
+
+
+Day 29: May 29, 2020 Friday
+
+**Today's Progress**: 
+Completed 9 Questions frCompleted 4 questions from FCC Object Oriented Programming.
+Codewars:8 kyu Grasshopper - Messi Goals, 
+7 kyu Jaden Casing Stringsom FCC Object Oriented Programming and worked on my product landing page 
+
+ **Thoughts**:  
+
+
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
+* https://github.com/Slavi-Svec/code-wars-kata/blob/master/8Kyu/8%20kyu%20Grasshopper%20-%20Messi%20Goals
+
+
+Day 30: May 30, 2020 Saturday
+
+**Today's Progress**: 
+Today I continued working on my FCC product landing page 
+
+ **Thoughts**:  
+nearly completed my FCC landing page 
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/product-landing-page
+
+
+Day 31: May 31, 2020 Sunday
+
+**Today's Progress**: 
+Today I completed the last few challenges from FCC Object Oriented Programming 
+
+ **Thoughts**:  
+
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/07%20-%20Object%20Oriented%20Programming
+
 
 Day 32: June 01, 2020 Monday
 
@@ -428,7 +468,10 @@ Day 38: June 07, 2020 Sunday
 
 **Today's Progress**: 
 Continued to work FCC portfolio page 
+
  **Thoughts**:
+ 
 completed all the tests and started the nav bar and the footer, i had a good weekend. 
 **Link(s) to work**
+
 * https://github.com/Slavi-Svec/personal-portfolio-webpage
