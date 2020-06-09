@@ -459,10 +459,13 @@ Day 35: June 04, 2020 Thursday
 
 **Today's Progress**: 
 Continued to work on my Technical documentation page
+
  **Thoughts**:
  was a good day again, im going to make the page responsive to mobile tomorrow. 
+ 
 **Link(s) to work**
 https://github.com/Slavi-Svec/technical-documentation-page
+
 
 Day 38: June 07, 2020 Sunday
 
@@ -475,3 +478,15 @@ completed all the tests and started the nav bar and the footer, i had a good wee
 **Link(s) to work**
 
 * https://github.com/Slavi-Svec/personal-portfolio-webpage
+
+
+Day 40: June 09, 2020 tuesday
+
+**Today's Progress**: 
+Continued to work FCC portfolio page with the layouyt and design and also went back to add media queries to the FCC tribute page 
+
+ **Thoughts**:
+ I lost most of the day due to getting my images done for the portfolio page, i went back and added media queries to the trubute page because the heading wasn't minimising when the screen sizes got smaller. and it looks better in mobile. I will have the images ready soon. 
+ 
+**Link(s) to work**
+* https://github.com/Slavi-Svec/tribute-page
