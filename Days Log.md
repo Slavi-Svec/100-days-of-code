@@ -490,3 +490,15 @@ Continued to work FCC portfolio page with the layouyt and design and also went b
  
 **Link(s) to work**
 * https://github.com/Slavi-Svec/tribute-page
+
+
+Day 42: June 11, 2020 Thursday
+
+**Today's Progress**: 
+Continued with my FCC portfolio, 
+
+ **Thoughts**:
+still getting thu the project and also having to tidy up a few of the other projects as well 
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/personal-portfolio-webpage
