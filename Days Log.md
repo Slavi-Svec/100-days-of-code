@@ -502,3 +502,16 @@ still getting thu the project and also having to tidy up a few of the other proj
 
 **Link(s) to work**
 https://github.com/Slavi-Svec/personal-portfolio-webpage
+
+
+
+Day 45: June 15, 2020 Monday 
+
+**Today's Progress**: 
+Today I completed 4 challenges from FCC JavaScript Algorithms and Data Structures: Functional Programming 
+
+ **Thoughts**:
+ some of these questions are getting difficult, anyways im getting thru the FCC curriculum. 
+
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/08%20-%20Functional%20Programming
