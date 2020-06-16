@@ -515,3 +515,15 @@ Today I completed 4 challenges from FCC JavaScript Algorithms and Data Structure
 
 **Link(s) to work**
 * https://github.com/Slavi-Svec/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/08%20-%20Functional%20Programming
+
+
+Day 46: June 16, 2020 Tuesday 
+
+**Today's Progress**: 
+Today I finished building a calculator in html/css. 
+
+ **Thoughts**:
+im going to start to code the js for it tomorrow rather than trying to do it in react i will attempt to do it in plain js so i can better understand how js work rather than trying to confuse myself. 
+
+**Link(s) to work**
+https://github.com/Slavi-Svec/calculator
