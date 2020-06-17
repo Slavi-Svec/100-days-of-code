@@ -527,3 +527,15 @@ im going to start to code the js for it tomorrow rather than trying to do it in 
 
 **Link(s) to work**
 https://github.com/Slavi-Svec/calculator
+
+
+Day 47: June 17, 2020 Wednesday 
+
+**Today's Progress**: 
+I continued to work on my Js Calculator 
+
+ **Thoughts**:
+I spent most of the day trying to work out how to make the event listeners work on the keys, this is goingt to be a huge challenge and its a little overwhelming. its going to be difficult. But then everything is difficult at the start 
+
+**Link(s) to work**
+* https://github.com/Slavi-Svec/calculator
