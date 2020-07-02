@@ -539,3 +539,18 @@ I spent most of the day trying to work out how to make the event listeners work 
 
 **Link(s) to work**
 * https://github.com/Slavi-Svec/calculator
+
+
+Day 62: July 02, 2020 Thursday
+
+**Today's Progress**: 
+I worked on my fcc portfolio and competed FCC Search and Replace
+
+ **Thoughts**:
+ just finishing off the last parts of the portfolio so i can have it handed in, also i completed a challenge that required me to check if the forst letter of the string was a capitl and i used  (/^[A-Z]/.test(before) to test the capitals then i checked the first letter if it was upper or lower case. then the easy part of using string replace. Then i return str.replace(before, after)
+
+**Link(s) to work**
+* https://github.com/Slavi-Svec/FreeCodeCamp/blob/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification/09%20-%20Intermediate%20Algorithm%20Scripting/07%20-%20Search%20and%20Replace
+
+
+
